@@ -12,7 +12,7 @@
 Un crud de ventas, con laravel 9 y bootstrap 5. 
 Responsive. 
 Un simple crud como muchas cosas a mejorar:
-    Optimizar
+    Optimizacion
     login de usuarios.
     
 ## License
