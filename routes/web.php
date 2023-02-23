@@ -18,7 +18,7 @@ Route::get('/', function () {
 });*/
 
 // Rutas CRUD
-/* Crear cambiar a create*/
+/* Crear cambiar a create a*/
 Route::get('admin/productos/crear', 'App\Http\Controllers\productosController@crear')->name('admin/productos/crear');
 Route::put('admin/productos/store', 'App\Http\Controllers\productosController@store')->name('admin/productos/store');
 
