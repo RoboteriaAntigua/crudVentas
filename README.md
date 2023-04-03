@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 </head>
 
-<body class="container-sm p-5 bg-dark text-white">
-<h2> Titulo </h2>
-
+<body>
 <div class="container-sm p-5 bg-dark text-white">
     <h3> E-commerce simple </h3>
     <p>
